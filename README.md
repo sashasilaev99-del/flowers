@@ -38,7 +38,7 @@ flowers/
 1. Склонируйте репозиторий или скачайте ZIP:
 
    ```bash
-   git clone https://github.com/ваш-логин/flowers.git
+   git clone https://github.com/sashasilaev99-del/flowers.git
    cd flowers
    ```
 
@@ -58,8 +58,3 @@ DevTools → Device Toolbar (Ctrl+Shift+M):
 
 Демонстрационный проект для портфолио. Магазин и товары вымышлены, фото взяты с Unsplash.
 Сайт собран с помощью AI-агента (Cline в VS Code), код проверен и доработан вручную.
-
-## Что можно доработать
-
-- Загружать товары из Google Таблицы через Google Apps Script вместо `data.js`.
-- Полноценная корзина с оформлением заказа и отправкой заявки в Telegram или CRM.
