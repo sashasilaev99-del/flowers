@@ -5,7 +5,7 @@
 
 ## Ссылки
 
-- Живой сайт (GitHub Pages): **[добавьте ссылку после публикации]**
+- Живой сайт (GitHub Pages): **https://sashasilaev99-del.github.io/flowers/**
 - Репозиторий: **https://github.com/sashasilaev99-del/flowers**
 
 ---
